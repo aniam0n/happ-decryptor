@@ -8,4 +8,7 @@ The encryption keys are *__securely__* extracted from application.
 
 Supports `crypt`, `crypt2`, and `crypt3` links
 
-[Link](https://ipfs.io/ipfs/bafkreifwzupcl3vfdv4ty6utkbbkzjwfuzdk3jqgfaqd5r2ztt3uria6vy)
+[IPFS Link](https://ipfs.io/ipfs/bafkreifwzupcl3vfdv4ty6utkbbkzjwfuzdk3jqgfaqd5r2ztt3uria6vy)
+
+---
+Some [faggots](https://pogrommist.ru/rasshifrovat-podpisku-happ/) stole my code and placed it on their bullshit website with ads and trackers
