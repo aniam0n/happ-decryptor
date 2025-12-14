@@ -6,6 +6,6 @@ This is typically needed when your link was generated in remn\*wave for use in h
 
 The encryption keys are *__securely__* extracted from application.
 
-Supports `crypt`, `crypt2`, and `crypt3` links
+Supports `crypt`, `crypt2`, `crypt3` and `crypt4` links
 
-[Link](https://ipfs.io/ipfs/bafkreifwzupcl3vfdv4ty6utkbbkzjwfuzdk3jqgfaqd5r2ztt3uria6vy)
+[IPFS Link](https://ipfs.io/ipfs/bafkreifde7mesel26mderjiv6uw6g2sypsjjpg27irrfouknwmfsxocazy)
